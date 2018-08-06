@@ -1,7 +1,5 @@
 # Build Android and iOS App from scratch using React Native
 
-This source code is part of [Build Android and iOS App from scratch using React Native](https://www.djamware.com/post/5b4ab6bb80aca707dd4f65a7/build-android-and-ios-app-from-scratch-using-react-native) tutorial.
-
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
